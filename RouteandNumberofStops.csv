@@ -1,0 +1,55 @@
+,Color,LongName,RouteAbbreviation,RouteId,RouteRecordId,ShortName,NumberOfStops
+0,00AEEC,Westfield State University OWL Shuttle,OWL,10009,821,OWL,7
+1,,,,19999,822,9999,58
+2,00AEEC,Westfield Center Shuttle,10s,10016,823,10s,12
+3,,Tripper 1 Helper Service,,10801,824,801,140
+4,,Tripper 2 Helper Service,,10802,825,802,216
+5,,Tripper 3 Helper Service,,10803,826,803,93
+6,,Tripper 4 Helper Service,,10804,827,804,130
+7,,Tripper 5 Helper Service,,10805,828,805,110
+8,,Tripper 6 Helper Service,,10806,829,806,21
+9,,Tripper 21 Helper Service,,10821,830,821,164
+10,,Tripper 92 Helper Service,,10892,831,892,124
+11,,Tripper 20 Helper Service,,10820,832,820,32
+12,,Tripper 23 Helper Service,,10823,833,823,36
+13,,Tripper 24 Helper Service,,10824,834,824,45
+14,FFA621,The Loop,LOOP,10050,835,LOOP,18
+15,7E0A6D,Holyoke Community College Express,P11,10011,836,P11,26
+16,00467E,Stonybrook Express,B12,10012,837,B12,3
+17,00467E,Eastfield Mall via Worthington/Wilbraham,B17,10017,838,B17,101
+18,00467E,Holyoke/Westfield via HCC,B23,10023,839,B23,51
+19,00467E,Plainfield Street,B4,10004,840,B4,39
+20,00467E,Ludlow via Bay St,B6,10006,841,B6,119
+21,00467E,Eastfield Mall via State St/Boston Rd,B7,10007,842,B7,89
+22,00A94E,Chicopee Center-Big Y / Sumner-Allen,G1,10001,843,G1,179
+23,00A94E,Carew-East Springfield / Belmont-Dwight ,G2,10002,844,G2,148
+24,00A94E,Spfld Plaza via Liberty/King-Westford,G3,10003,845,G3,107
+25,00A94E,Dickinson-Jewish Home/Longmeadow,G5,10005,846,G5,89
+26,7E0A6D,Holyoke/Springfield via Holyoke Mall,P20,10020,847,P20,99
+27,7E0A6D,Holyoke/Springfield via Chicopee,P21,10021,848,P21,122
+28,FF0000,Westfield/WSU/West Springfield,R10,10010,849,R10,101
+29,FF0000,Feeding Hills/Springfield,R14,10014,850,R14,82
+30,FF0000,HTC/Holyoke Hospital/Holyoke Mall,R24,10024,851,R24,58
+31,FF0000,Amherst/Holyoke via Route 116,R29,10029,852,R29,89
+32,000000,Inner Crosstown,X90,10090,853,X90,182
+33,000000,Mid City Crosstown,X92,10092,854,X92,78
+34,7E0A6D,Holyoke Mall Express via I-91,P20E,10920,855,P20E,2
+35,7E0A6D,Holyoke/Springfield Express via I-391,P21E,10921,856,P21E,34
+36,00A94E,Olympia Dr / Atkins Corner,36,20036,120,36,34
+37,FFFFFF,,,29999,121,9999,18
+38,C7A020,North Amherst / Old Belchertown Rd,30,20030,122,30,42
+39,EF4E91,Sunderland / South Amherst,31,20031,123,31,49
+40,00467E,Campus Shuttle Northbound,34,20034,124,34,27
+41,00467E,Campus Shuttle Southbound,35,20035,125,35,27
+42,7E0A6D,MHC / HC / AC / UM,38,20038,126,38,45
+43,7E0A6D,SC / HC / MHC,39,20039,127,39,49
+44,00A94E,Belchertown Center / UMass,45,20045,128,45,63
+45,00A94E,Whately via S. Deerfield Center / UMass,46,20046,129,46,35
+46,FFFFFF,Tripper,,20051,130,51,11
+47,00AEEC,Puffers Pond / Stop and Shop,33,20033,131,33,49
+48,FF0000,,9999,39999,82,9999,3
+49,00467E,Northampton/Hadley/Amherst,B43,30043,94,B43,49
+50,00467E,Northampton/Holyoke via Route 5,B48,30048,95,B48,11
+51,FF0000,Northampton/Easthampton/HCC,R41,30041,96,R41,31
+52,FF0000,Northampton/Williamsburg,R42,30042,97,R42,21
+53,FF0000,Florence Heights via King St & Bridge Rd,R44,30044,98,R44,57
